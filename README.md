@@ -8,11 +8,13 @@
 - **專案概述**：使用網頁原生技術獨立開發的經典撲克牌遊戲，實現完整的發牌、出牌邏輯與勝負判定。
 - **核心技術**：JavaScript 陣列操作與洗牌演算法、DOM 元素動態渲染、CSS Flexbox 佈局。
 - **程式碼**：[查看 GitHub 原始碼](https://github.com/Robbyxun/card-game)
+-  **DEMO** : https://robbyxun.github.io/card-game/
 
 ### 🎫 互動式線上刮刮樂 (lottery-game)
 - **專案概述**：模擬真實刮刮樂體驗的網頁小遊戲，具備動態遮罩與結果兌獎功能，提升使用者互動趣味性。
 - **核心技術**：HTML5 Canvas 技術、事件監聽（滑鼠與觸控事件處理）。
 - **程式碼**：[查看 GitHub 原始碼](https://github.com/Robbyxun/lottery-game)
+-  **DEMO** : [https://robbyxun.github.io/card-game/](https://robbyxun.github.io/lottery-game/)
 
 ### 💣 數字亂數炸彈遊戲 (random_bomb)
 - **專案概述**：經典的終極密碼網頁遊戲，提供直覺、良好的使用者互動介面與即時回饋。
