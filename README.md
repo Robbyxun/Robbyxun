@@ -20,6 +20,7 @@
 - **專案概述**：經典的終極密碼網頁遊戲，提供直覺、良好的使用者互動介面與即時回饋。
 - **核心技術**：JavaScript 隨機亂數生成 (Math.random)、條件判斷邏輯、表單驗證與錯誤提示處理。
 - **程式碼**：[查看 GitHub 原始碼](https://github.com/Robbyxun/random_bomb)
+- 
 - **DEMO** : https://robbyxun.github.io/random_bomb/
 ---
 
